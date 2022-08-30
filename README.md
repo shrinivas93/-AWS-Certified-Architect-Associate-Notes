@@ -1,2 +1,1 @@
-# -AWS-Certified-Architect-Associate-Notes
- AWS-Certified-Developer-Associate-Notes
+# AWS-Certified-Architect-Associate-Notes
